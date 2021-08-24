@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradee Vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm Pradeep Vishwakarma</h1>
 <h3 align="center">A passionate frontend and backend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepvish1213" alt="pradeepvish1213" /> </p>
