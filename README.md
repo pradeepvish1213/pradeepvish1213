@@ -12,7 +12,7 @@
 - 📫 How to reach me **pradeepvish1213@gmail.com**
 </p>
 <p align="center">
-<a href="https://app.daily.dev/pradeep_vish"><img src="https://api.daily.dev/devcards/0019ed1b1c23491281c389ffd818a9b9.png?r=iq8" width="400" alt="Pradeep Kumar Vishwakarma's Dev Card"/></a></p>
+<a href="https://app.daily.dev/pradeep_vish"><img src="https://github.com/pradeepvish1213/pradeepvish1213/blob/master/devcard.svg" width="400" alt="Pradeep Kumar Vishwakarma's Dev Card"/></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepvish1213" alt="pradeepvish1213" /></p>
 
