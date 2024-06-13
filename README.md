@@ -12,7 +12,8 @@
 - 📫 How to reach me **pradeepvish1213@gmail.com**
 </p>
 <p align="center">
-<a href="https://app.daily.dev/pradeepvish1213"><img src="https://api.daily.dev/devcards/v2/56c88512ab1949d19aaa2597be996933.png?r=mzf" width="356" alt="Pradeep Vishwakarma's Dev Card"/></a>
+ <a href="https://app.daily.dev/pradeepvish1213"><img src="https://api.daily.dev/devcards/v2/56c88512ab1949d19aaa2597be996933.png?type=wide&r=a3v" width="652" alt="Pradeep Vishwakarma's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/pradeepvish1213"><img src="https://api.daily.dev/devcards/v2/56c88512ab1949d19aaa2597be996933.png?r=mzf" width="356" alt="Pradeep Vishwakarma's Dev Card"/></a> -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepvish1213" alt="pradeepvish1213" /></p>
