@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pradeepvish1213" alt="pradeepvish1213" /> </p>
 <p align="center">
-- 🔭 I’m currently working on **dataseers**
+- 🔭 I’m currently working on **Lamipak**
 <p align="center">
-- 👯 I’m looking to collaborate on **dataseers**
+- 👯 I’m looking to collaborate on **Lamipak**
 <p align="center">
-- 💬 Ask me about **React, Node, Angular, Php, MySql, Html, JavaScript**
+- 💬 Ask me about **React, Node, Angular, Php, MySql, Html, JavaScript, Vector DB**
 <p align="center">
 - 📫 How to reach me **pradeepvish1213@gmail.com**
 </p>
